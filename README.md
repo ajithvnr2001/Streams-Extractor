@@ -38,7 +38,7 @@
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Streams-Extractor
+git clone https://github.com/ajithvnr2001/Streams-Extractor
 cd Streams-Extractor
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
